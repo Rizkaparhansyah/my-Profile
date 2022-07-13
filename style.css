@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #212f3c;
+  /* background-image: url(project/2.jpg);
+  background-size: cover;
+  height: 100%; */
+}
+#project {
+  background-color: #e2e2e2;
+}
+
+section {
+  padding-top: 5rem;
+}
